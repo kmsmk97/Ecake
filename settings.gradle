@@ -1,0 +1,2 @@
+rootProject.name = "ecake"
+include ':app'
